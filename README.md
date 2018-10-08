@@ -1,4 +1,3 @@
 # CausalSetQuantumGravity
 
-## Week1
-Discrete-Continuum Equivalence
+## Week 1 - Discrete-Continuum Correspondence
