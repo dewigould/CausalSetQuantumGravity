@@ -5,7 +5,8 @@
  - Random sprinkling of causal set elements using (u, v) coordinates
  - Applying Lorentz Boosts to causal set elements
  
-## Week 2
+## Week 3
+ - Discrete-continuum correspondence summary
 
 ## Thickening
  -  Numerical integrals and figure plotting for 'thickening' regime whereby nearest neighbours are approximated as hyperbola
